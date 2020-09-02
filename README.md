@@ -1,7 +1,7 @@
 ## Hi! I'm Nathan 👋
 
-I'm a web developer living in Mechelen, Belgium. From the day i developed my first "Hello World"-app I've been <strong>fascinated</strong> with web development.
-I've grown a lot since then, now being able to write a user friendly, fast and beautiful front end in <strong>React</strong> and a solid back end in <strong>PHP</strong> with a <strong>MySQL</strong> database.
+I'm a web developer living in Mechelen, Belgium. From the day i developed my first "Hello World"-app I've been <strong>fascinated</strong> with web development.<br/>
+I've grown a lot since then, now being able to write a user friendly, fast and beautiful front end in <strong>React</strong> and a solid back end in <strong>PHP</strong> with a <strong>MySQL</strong> database.<br/>
 The passion I have motivates me to always <strong>learn new things</strong>, so the list of technologies I know doesn't end there and will continue to grow.
 
 You can check out my portfolio-site that I designed myself and developed in GatsbyJS <a href="https://nathanz.dev"> here </a>.
